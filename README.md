@@ -1,5 +1,5 @@
 # Study of Palindromes in Human Cytomegalovirus DNA
-By Brittney Cifuentes-Tello and Justin Nguyen
+Brittney Cifuentes-Tello and Justin Nguyen
 
 ### Introduction
 This repository includes R code, output plots, and a Google Docs paper as part of a statistical study on base pair palindromes in human cytomegalovirus (HCMV) DNA. It is theorized that palindromes can signify origin points of DNA replication which, when located, opens the door to further research on how to better combat the virus.
