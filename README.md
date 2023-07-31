@@ -1,4 +1,4 @@
-# MATH189-Assignment-3
+# Study of Palindromes in Human Cytomegalovirus DNA
 By Brittney Cifuentes-Tello and Justin Nguyen
 
 ### Introduction
